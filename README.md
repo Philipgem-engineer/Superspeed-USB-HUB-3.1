@@ -31,7 +31,7 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 ## 📁 File Structure
 
 <details>
-  <summary>DC-DC Boost Converter</summary>
+  <summary>USB 3.1 Hub</summary>
   <ul>
     <li>
       Media/
