@@ -27,7 +27,10 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 
 ## Manufactured PCB
 <img width="1181" height="922" alt="photo_6084558659783430593_y" src="https://github.com/user-attachments/assets/5e532351-8141-4804-9f2d-4e4c79c69318" />
+<img width="1018" height="824" alt="photo_6084558659783430600_y" src="https://github.com/user-attachments/assets/723d452b-8f99-442e-b056-18bf28961278" />
 
+## Testing
+- Coming Soon
 
 ## 📁 File Structure
 
