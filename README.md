@@ -7,10 +7,12 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 - Type C upstream port
 - 4 USB-A downstream port
 
+## SPONSOR
+https://www.nextpcb.com/?code=Philip
+
 ##  TOOLS USED:
 - Schematic & PCB Design: KiCad
-- Component Library: LCSC
-- PCB Fabrication: JLCPCB
+- PCB Fabrication & Component Library: NextPCB
 
 ## SCHEMATIC
 <img width="3307" height="2339" alt="USB Hub 3 1 Schematic-1" src="https://github.com/user-attachments/assets/815ba5ab-2e6d-4cd1-843a-719847d26fd3" />
@@ -25,11 +27,11 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 <img width="988" height="551" alt="image" src="https://github.com/user-attachments/assets/afc82d9c-c681-4f8e-805e-90adc0626bc1" />
 
 
-## Manufactured PCB
+## MANUFACTURED PCB
 <img width="1181" height="922" alt="photo_6084558659783430593_y" src="https://github.com/user-attachments/assets/5e532351-8141-4804-9f2d-4e4c79c69318" />
 <img width="1018" height="824" alt="photo_6084558659783430600_y" src="https://github.com/user-attachments/assets/723d452b-8f99-442e-b056-18bf28961278" />
 
-## Testing
+## PERFORMANCE
 - Coming Soon
 
 ## 📁 File Structure
