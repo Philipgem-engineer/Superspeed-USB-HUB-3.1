@@ -9,6 +9,7 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 
 ## SPONSOR
 https://www.nextpcb.com/?code=Philip
+[<img width="200" height="69" alt="NextPCB" src="https://github.com/user-attachments/assets/f6b9bda9-1b32-4372-8df8-b126741eb5a7">](https://www.nextpcb.com/?code=Philip)
 
 ##  TOOLS USED:
 - Schematic & PCB Design: KiCad
