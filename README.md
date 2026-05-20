@@ -8,8 +8,11 @@ This reposistory containts a schematic and PCB design of a superspeed USB 3.1 Hu
 - 4 USB-A downstream port
 
 ## SPONSOR
-https://www.nextpcb.com/?code=Philip
 [<img width="200" height="69" alt="NextPCB" src="https://github.com/user-attachments/assets/f6b9bda9-1b32-4372-8df8-b126741eb5a7">](https://www.nextpcb.com/?code=Philip)
+
+This project is proudly sponsored by [NextPCB](https://www.nextpcb.com/?code=Philip). Their support helps make the continued development of this project possible, and I’m incredibly grateful to have them as my very first sponsor.
+
+If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?code=Philip) offers reliable PCB fabrication and assembly services with fast turnaround times and competitive pricing, making it easier to bring your electronics projects from idea to reality.
 
 ##  TOOLS USED:
 - Schematic & PCB Design: KiCad
