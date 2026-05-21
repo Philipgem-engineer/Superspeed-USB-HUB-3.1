@@ -37,6 +37,7 @@ If you’re planning to build your own PCB, [NextPCB](https://www.nextpcb.com/?c
 
 ## PERFORMANCE
 <img width="716" height="516" alt="image" src="https://github.com/user-attachments/assets/f002d0c4-28d9-48de-8277-cf3d7cf28dba" />
+
 The USB Hub was able to achieve a read speed of 445.69 MB/s, equivalent to 3.57 Gbps, and a write speed of 254.85 MB/s, equivalent to 2.04 Gbps. Unfortunately, the device used for testing was not capable of reaching the full 5 Gbps bandwidth of USB 3.1, so the maximum performance of the hub could not be fully evaluated. I wish I had access to a true 5 Gbps-capable device to properly test the hub’s limits.
 
 ## 📁 File Structure
